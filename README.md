@@ -9,6 +9,19 @@ The pretrained checkpoints can be downloaded from - https://drive.google.com/dri
 3) Run distribution calibration by running - `python3 evaluate_dc.py`
 4) Run gaussian-sampling by running `python3 gaussian_sampling.py`
 
+## Citing
+If you are using the code/method in your work, please cite the following paper - 
+
+    
+    @misc{ganatra2023logarithmtransform,  
+      title={Logarithm-transform aided Gaussian Sampling for Few-Shot Learning}, 
+      author={Vaibhav Ganatra},      
+      year={2023},      
+      eprint={2309.16337},
+      archivePrefix={arXiv},      
+      primaryClass={cs.CV}      
+}``
+
 ## References
 
 1) Free Lunch for Few-shot Learning: Distribution Calibration - https://arxiv.org/abs/2101.06395
