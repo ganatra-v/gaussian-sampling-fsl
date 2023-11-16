@@ -13,14 +13,13 @@ The pretrained checkpoints can be downloaded from - https://drive.google.com/dri
 If you are using the code/method in your work, please cite the following paper - 
 
     
-    @misc{ganatra2023logarithmtransform,  
-      title={Logarithm-transform aided Gaussian Sampling for Few-Shot Learning}, 
-      author={Vaibhav Ganatra},      
-      year={2023},      
-      eprint={2309.16337},
-      archivePrefix={arXiv},      
-      primaryClass={cs.CV}      
-}``
+    @InProceedings{Ganatra_2023_ICCV,
+    author    = {Ganatra, Vaibhav},
+    title     = {Logarithm-Transform Aided Gaussian Sampling for Few-Shot Learning},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops},
+    month     = {October},
+    year      = {2023},
+    pages     = {247-252}
 
 ## References
 
