@@ -1,5 +1,5 @@
-# gaussian-sampling-fsl
-Code implementation of the paper -  Logarithm-transform aided Gaussian sampling for Few-Shot Learning
+# [ICCVW] Logarithm-transform aided Gaussian sampling for Few-Shot Learning
+Code implementation of the paper -  Logarithm-transform aided Gaussian sampling for Few-Shot Learning [(arXiv)](https://arxiv.org/abs/2309.16337)
 
 The pretrained checkpoints can be downloaded from - https://drive.google.com/drive/folders/1IjqOYLRH0OwkMZo8Tp4EG02ltDppi61n?usp=sharing
 
